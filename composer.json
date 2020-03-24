@@ -17,7 +17,7 @@
         "laravel/socialite": ">=4.0.0",
         "league/flysystem-aws-s3-v3": ">=1.0.0",
         "league/flysystem-rackspace": ">=1.0.0",
-        "chumper/zipper": ">=1.0.0",
+        "madnest/madzipper": ">=1.0.0",
         "intervention/image": ">=2.3.0",
         "facebook/graph-sdk": ">=5.3.0",
         "jenssegers/agent": ">=2.5.0",
